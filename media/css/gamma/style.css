@@ -1554,7 +1554,7 @@ i {
 @media screen and (min-width: 768px) {
   .features-section .feature {
     margin-top: 0;
-    text-align: left;
+    text-align: center;
   }
 }
 
@@ -2046,9 +2046,6 @@ i {
   display: inline-block;
 }
 
-.video-modal .logo-mark {
-  background-image: url("https://d1vfnsg13zvlk4.cloudfront.net/logo-dark.svg");
-}
 
 .video-modal .modal-body {
   padding-top: 40px;
@@ -4751,10 +4748,6 @@ vertical-align: middle;
 
 .upgrade-page .upgrade-section .container .text .logo {
   padding: 0;
-}
-
-.upgrade-page .upgrade-section .container .text .logo .logo-mark {
-  background-image: url("https://d1vfnsg13zvlk4.cloudfront.net/logo-dark.svg");
 }
 
 .upgrade-page .upgrade-section .container .text h3 {
