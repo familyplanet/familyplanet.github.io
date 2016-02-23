@@ -1587,7 +1587,7 @@ i {
 }
 
 .download-app-form {
-  display: none;
+  /*display: none;*/
 }
 
 @media screen and (min-width: 768px) {
@@ -1670,7 +1670,7 @@ i {
 .footer-section .download-app-form {
   margin: 40px auto 0;
   text-align: center;
-  width: 449px;
+  width: 100%;
 }
 
 .footer-section .download-app-form .phone-number-download-flag {
