@@ -1433,7 +1433,8 @@ i {
 }
 
 .download-app-form {
-  width: 430px;
+  width: 100%;
+  max-width: 430px;
 }
 
 .download-app-form .phone-number-download-input {
@@ -1671,6 +1672,7 @@ i {
   margin: 40px auto 0;
   text-align: center;
   width: 100%;
+  max-width: 430px;
 }
 
 .footer-section .download-app-form .phone-number-download-flag {
