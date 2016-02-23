@@ -119,8 +119,8 @@ h1 {
 
 @media screen and (min-width: 768px) {
   h1 {
-    font-size: 4.8rem;
-    line-height: 5.6rem;
+    font-size: 6rem;
+    line-height: 7rem;
   }
 }
 
@@ -172,7 +172,7 @@ h5 {
 @media screen and (min-width: 768px) {
   h5 {
     font-size: 2rem;
-    line-height: 2.4rem;
+    line-height: 2.8rem;
   }
 }
 
@@ -2232,7 +2232,7 @@ i {
 
 @media screen and (min-width: 768px) {
   .home-page .features-section .row {
-    margin-top: 90px;
+    margin-top: 50px;
   }
 }
 
@@ -2498,7 +2498,7 @@ i {
 }
 
 .on-demand-section h5 {
-  max-width: 45em;
+  max-width: 35em;
   margin-left: auto;
   margin-right: auto;
 }
@@ -3421,13 +3421,14 @@ vertical-align: middle;
 }
 
 .collage-img {
-  background-size: 100%;
+  background-size: cover;
+  background-position: center center;
   width: 100%;
   height: 100%;
   display: block;
   background-repeat: no-repeat;
   z-index: 1;
-  border-radius: 6px;
+  border-radius: 15px;
 }
 
 .collage-message,
@@ -3599,14 +3600,14 @@ vertical-align: middle;
 }
 
 .homepage-collage-wrapper .collage-img.img-pot {
-  background-image: url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-pot.jpg");
+  background-image: url("http://news.bbcimg.co.uk/media/images/69006000/jpg/_69006463_100438579.jpg");
 }
 
 #homepage-mobile-collage .homepage-collage-wrapper .collage-img.img-pot {
-  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-pot.jpg");
-  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-pot.jpg");
-  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-pot.jpg");
-  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-pot.jpg");
+  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://news.bbcimg.co.uk/media/images/69006000/jpg/_69006463_100438579.jpg");
+  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://news.bbcimg.co.uk/media/images/69006000/jpg/_69006463_100438579.jpg");
+  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://news.bbcimg.co.uk/media/images/69006000/jpg/_69006463_100438579.jpg");
+  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://news.bbcimg.co.uk/media/images/69006000/jpg/_69006463_100438579.jpg");
 }
 
 .homepage-collage-wrapper li.active .collage-img.img-pot {
@@ -3617,57 +3618,57 @@ vertical-align: middle;
 }
 
 .homepage-collage-wrapper .collage-img.img-bonsai {
-  background-image: url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-bonsai.jpg");
+  background-image: url("http://beautyandbedlam.com/wp-content/uploads/2011/12/FAmily-Recipes.jpg");
 }
 
 #homepage-mobile-collage .homepage-collage-wrapper .collage-img.img-bonsai {
-  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-bonsai.jpg");
-  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-bonsai.jpg");
-  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-bonsai.jpg");
-  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-bonsai.jpg");
+  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://beautyandbedlam.com/wp-content/uploads/2011/12/FAmily-Recipes.jpg");
+  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://beautyandbedlam.com/wp-content/uploads/2011/12/FAmily-Recipes.jpg");
+  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://beautyandbedlam.com/wp-content/uploads/2011/12/FAmily-Recipes.jpg");
+  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://beautyandbedlam.com/wp-content/uploads/2011/12/FAmily-Recipes.jpg");
 }
 
 .homepage-collage-wrapper li.active .collage-img.img-bonsai {
-  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-bonsai.jpg");
-  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-bonsai.jpg");
-  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-bonsai.jpg");
-  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-bonsai.jpg");
+  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://beautyandbedlam.com/wp-content/uploads/2011/12/FAmily-Recipes.jpg");
+  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://beautyandbedlam.com/wp-content/uploads/2011/12/FAmily-Recipes.jpg");
+  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://beautyandbedlam.com/wp-content/uploads/2011/12/FAmily-Recipes.jpg");
+  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://beautyandbedlam.com/wp-content/uploads/2011/12/FAmily-Recipes.jpg");
 }
 
 .homepage-collage-wrapper .collage-img.img-tires {
-  background-image: url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-tires.jpg");
+  background-image: url("http://blog.genealogybank.com/wp-content/uploads/2015/07/colorado-springs-gazette-newspaper-0910-1922-atkinson-family-reunion.png");
 }
 
 #homepage-mobile-collage .homepage-collage-wrapper .collage-img.img-tires {
-  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-tires.jpg");
-  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-tires.jpg");
-  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-tires.jpg");
-  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-tires.jpg");
+  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://blog.genealogybank.com/wp-content/uploads/2015/07/colorado-springs-gazette-newspaper-0910-1922-atkinson-family-reunion.png");
+  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://blog.genealogybank.com/wp-content/uploads/2015/07/colorado-springs-gazette-newspaper-0910-1922-atkinson-family-reunion.png");
+  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://blog.genealogybank.com/wp-content/uploads/2015/07/colorado-springs-gazette-newspaper-0910-1922-atkinson-family-reunion.png");
+  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://blog.genealogybank.com/wp-content/uploads/2015/07/colorado-springs-gazette-newspaper-0910-1922-atkinson-family-reunion.png");
 }
 
 .homepage-collage-wrapper li.active .collage-img.img-tires {
-  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-tires.jpg");
-  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-tires.jpg");
-  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-tires.jpg");
-  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-tires.jpg");
+  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://blog.genealogybank.com/wp-content/uploads/2015/07/colorado-springs-gazette-newspaper-0910-1922-atkinson-family-reunion.png");
+  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://blog.genealogybank.com/wp-content/uploads/2015/07/colorado-springs-gazette-newspaper-0910-1922-atkinson-family-reunion.png");
+  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://blog.genealogybank.com/wp-content/uploads/2015/07/colorado-springs-gazette-newspaper-0910-1922-atkinson-family-reunion.png");
+  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://blog.genealogybank.com/wp-content/uploads/2015/07/colorado-springs-gazette-newspaper-0910-1922-atkinson-family-reunion.png");
 }
 
 .homepage-collage-wrapper .collage-img.img-light {
-  background-image: url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-light.jpg");
+  background-image: url("http://www.infinitehomeresource.com/wp-content/uploads/2014/11/memories.png");
 }
 
 #homepage-mobile-collage .homepage-collage-wrapper .collage-img.img-light {
-  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-light.jpg");
-  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-light.jpg");
-  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-light.jpg");
-  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-light.jpg");
+  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.infinitehomeresource.com/wp-content/uploads/2014/11/memories.png");
+  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.infinitehomeresource.com/wp-content/uploads/2014/11/memories.png");
+  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.infinitehomeresource.com/wp-content/uploads/2014/11/memories.png");
+  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.infinitehomeresource.com/wp-content/uploads/2014/11/memories.png");
 }
 
 .homepage-collage-wrapper li.active .collage-img.img-light {
-  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-light.jpg");
-  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-light.jpg");
-  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-light.jpg");
-  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-light.jpg");
+  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.infinitehomeresource.com/wp-content/uploads/2014/11/memories.png");
+  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.infinitehomeresource.com/wp-content/uploads/2014/11/memories.png");
+  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.infinitehomeresource.com/wp-content/uploads/2014/11/memories.png");
+  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.infinitehomeresource.com/wp-content/uploads/2014/11/memories.png");
 }
 
 .homepage-collage-wrapper .collage-img.img-notebook {
@@ -3707,57 +3708,57 @@ vertical-align: middle;
 }
 
 .homepage-collage-wrapper .collage-img.img-chemex {
-  background-image: url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-chemex.jpg");
+  background-image: url("http://joinville.se//wp-content/uploads/2013/01/Multicultural-holiday-Family-dinner.png");
 }
 
 #homepage-mobile-collage .homepage-collage-wrapper .collage-img.img-chemex {
-  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-chemex.jpg");
-  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-chemex.jpg");
-  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-chemex.jpg");
-  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-chemex.jpg");
+  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://joinville.se//wp-content/uploads/2013/01/Multicultural-holiday-Family-dinner.png");
+  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://joinville.se//wp-content/uploads/2013/01/Multicultural-holiday-Family-dinner.png");
+  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://joinville.se//wp-content/uploads/2013/01/Multicultural-holiday-Family-dinner.png");
+  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://joinville.se//wp-content/uploads/2013/01/Multicultural-holiday-Family-dinner.png");
 }
 
 .homepage-collage-wrapper li.active .collage-img.img-chemex {
-  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-chemex.jpg");
-  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-chemex.jpg");
-  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-chemex.jpg");
-  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-chemex.jpg");
+  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://joinville.se//wp-content/uploads/2013/01/Multicultural-holiday-Family-dinner.png");
+  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://joinville.se//wp-content/uploads/2013/01/Multicultural-holiday-Family-dinner.png");
+  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://joinville.se//wp-content/uploads/2013/01/Multicultural-holiday-Family-dinner.png");
+  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://joinville.se//wp-content/uploads/2013/01/Multicultural-holiday-Family-dinner.png");
 }
 
 .homepage-collage-wrapper .collage-img.img-bottles {
-  background-image: url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-bottles.jpg");
+  background-image: url("http://www.1067thedrive.fm/wp-content/uploads/Rimbey-letters-2-02192016.png");
 }
 
 #homepage-mobile-collage .homepage-collage-wrapper .collage-img.img-bottles {
-  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-bottles.jpg");
-  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-bottles.jpg");
-  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-bottles.jpg");
-  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-bottles.jpg");
+  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.1067thedrive.fm/wp-content/uploads/Rimbey-letters-2-02192016.png");
+  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.1067thedrive.fm/wp-content/uploads/Rimbey-letters-2-02192016.png");
+  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.1067thedrive.fm/wp-content/uploads/Rimbey-letters-2-02192016.png");
+  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.1067thedrive.fm/wp-content/uploads/Rimbey-letters-2-02192016.png");
 }
 
 .homepage-collage-wrapper li.active .collage-img.img-bottles {
-  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-bottles.jpg");
-  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-bottles.jpg");
-  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-bottles.jpg");
-  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-bottles.jpg");
+  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.1067thedrive.fm/wp-content/uploads/Rimbey-letters-2-02192016.png");
+  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.1067thedrive.fm/wp-content/uploads/Rimbey-letters-2-02192016.png");
+  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.1067thedrive.fm/wp-content/uploads/Rimbey-letters-2-02192016.png");
+  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.1067thedrive.fm/wp-content/uploads/Rimbey-letters-2-02192016.png");
 }
 
 .homepage-collage-wrapper .collage-img.img-swing {
-  background-image: url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-swing.jpg");
+  background-image: url("http://f.tqn.com/y/grandparents/1/W/F/Q/-/-/142019017.jpg");
 }
 
 #homepage-mobile-collage .homepage-collage-wrapper .collage-img.img-swing {
-  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-swing.jpg");
-  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-swing.jpg");
-  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-swing.jpg");
-  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-swing.jpg");
+  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://f.tqn.com/y/grandparents/1/W/F/Q/-/-/142019017.jpg");
+  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://f.tqn.com/y/grandparents/1/W/F/Q/-/-/142019017.jpg");
+  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://f.tqn.com/y/grandparents/1/W/F/Q/-/-/142019017.jpg");
+  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://f.tqn.com/y/grandparents/1/W/F/Q/-/-/142019017.jpg");
 }
 
 .homepage-collage-wrapper li.active .collage-img.img-swing {
-  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-swing.jpg");
-  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-swing.jpg");
-  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-swing.jpg");
-  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-swing.jpg");
+  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://f.tqn.com/y/grandparents/1/W/F/Q/-/-/142019017.jpg");
+  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://f.tqn.com/y/grandparents/1/W/F/Q/-/-/142019017.jpg");
+  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://f.tqn.com/y/grandparents/1/W/F/Q/-/-/142019017.jpg");
+  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://f.tqn.com/y/grandparents/1/W/F/Q/-/-/142019017.jpg");
 }
 
 .homepage-collage-wrapper .collage-img.img-jam {
@@ -3779,21 +3780,21 @@ vertical-align: middle;
 }
 
 .homepage-collage-wrapper .collage-img.img-orchard {
-  background-image: url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-orchard.jpg");
+  background-image: url("https://www.imageskart.com/mark.php?path=IMK10000362514.jpg");
 }
 
 #homepage-mobile-collage .homepage-collage-wrapper .collage-img.img-orchard {
-  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-orchard.jpg");
-  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-orchard.jpg");
-  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-orchard.jpg");
-  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-orchard.jpg");
+  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://www.imageskart.com/mark.php?path=IMK10000362514.jpg");
+  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://www.imageskart.com/mark.php?path=IMK10000362514.jpg");
+  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://www.imageskart.com/mark.php?path=IMK10000362514.jpg");
+  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://www.imageskart.com/mark.php?path=IMK10000362514.jpg");
 }
 
 .homepage-collage-wrapper li.active .collage-img.img-orchard {
-  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-orchard.jpg");
-  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-orchard.jpg");
-  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-orchard.jpg");
-  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-orchard.jpg");
+  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://www.imageskart.com/mark.php?path=IMK10000362514.jpg");
+  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://www.imageskart.com/mark.php?path=IMK10000362514.jpg");
+  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://www.imageskart.com/mark.php?path=IMK10000362514.jpg");
+  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://www.imageskart.com/mark.php?path=IMK10000362514.jpg");
 }
 
 .homepage-collage-wrapper .collage-img.img-beatles {
@@ -3959,21 +3960,21 @@ vertical-align: middle;
 }
 
 .homepage-collage-wrapper .collage-img.img-pasta {
-  background-image: url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-pasta.jpg");
+  background-image: url("http://www.eyeforfilm.co.uk/images/newsite/The%20Decent%20One%20%20Himmler%20artifacts.jpg");
 }
 
 #homepage-mobile-collage .homepage-collage-wrapper .collage-img.img-pasta {
-  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-pasta.jpg");
-  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-pasta.jpg");
-  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-pasta.jpg");
-  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-pasta.jpg");
+  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.eyeforfilm.co.uk/images/newsite/The%20Decent%20One%20%20Himmler%20artifacts.jpg");
+  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.eyeforfilm.co.uk/images/newsite/The%20Decent%20One%20%20Himmler%20artifacts.jpg");
+  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.eyeforfilm.co.uk/images/newsite/The%20Decent%20One%20%20Himmler%20artifacts.jpg");
+  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.eyeforfilm.co.uk/images/newsite/The%20Decent%20One%20%20Himmler%20artifacts.jpg");
 }
 
 .homepage-collage-wrapper li.active .collage-img.img-pasta {
-  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-pasta.jpg");
-  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-pasta.jpg");
-  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-pasta.jpg");
-  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-pasta.jpg");
+  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.eyeforfilm.co.uk/images/newsite/The%20Decent%20One%20%20Himmler%20artifacts.jpg");
+  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.eyeforfilm.co.uk/images/newsite/The%20Decent%20One%20%20Himmler%20artifacts.jpg");
+  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.eyeforfilm.co.uk/images/newsite/The%20Decent%20One%20%20Himmler%20artifacts.jpg");
+  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("http://www.eyeforfilm.co.uk/images/newsite/The%20Decent%20One%20%20Himmler%20artifacts.jpg");
 }
 
 .homepage-collage-wrapper .collage-img.img-rodeo {
@@ -4121,21 +4122,21 @@ vertical-align: middle;
 }
 
 .homepage-collage-wrapper .collage-img.img-shoes {
-  background-image: url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-shoes.jpg");
+  background-image: url("https://www.colourbox.com/preview/1823128-happy-family-recording-by-video-camera-their-child-at-home.jpg");
 }
 
 #homepage-mobile-collage .homepage-collage-wrapper .collage-img.img-shoes {
-  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-shoes.jpg");
-  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-shoes.jpg");
-  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-shoes.jpg");
-  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-shoes.jpg");
+  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://www.colourbox.com/preview/1823128-happy-family-recording-by-video-camera-their-child-at-home.jpg");
+  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://www.colourbox.com/preview/1823128-happy-family-recording-by-video-camera-their-child-at-home.jpg");
+  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://www.colourbox.com/preview/1823128-happy-family-recording-by-video-camera-their-child-at-home.jpg");
+  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://www.colourbox.com/preview/1823128-happy-family-recording-by-video-camera-their-child-at-home.jpg");
 }
 
 .homepage-collage-wrapper li.active .collage-img.img-shoes {
-  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-shoes.jpg");
-  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-shoes.jpg");
-  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-shoes.jpg");
-  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://d1vfnsg13zvlk4.cloudfront.net/collage/img-shoes.jpg");
+  background-image: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://www.colourbox.com/preview/1823128-happy-family-recording-by-video-camera-their-child-at-home.jpg");
+  background-image: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://www.colourbox.com/preview/1823128-happy-family-recording-by-video-camera-their-child-at-home.jpg");
+  background-image: -o-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://www.colourbox.com/preview/1823128-happy-family-recording-by-video-camera-their-child-at-home.jpg");
+  background-image: linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.2)), url("https://www.colourbox.com/preview/1823128-happy-family-recording-by-video-camera-their-child-at-home.jpg");
 }
 
 .homepage-collage-wrapper .collage-img.img-school {
