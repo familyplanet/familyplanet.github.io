@@ -1375,14 +1375,6 @@ i {
   height: 59px;
 }
 
-.logo-mark-light {
-  background-image: url("https://d1vfnsg13zvlk4.cloudfront.net/logo-mark-light.svg");
-}
-
-.logo-mark-dark {
-  background-image: url("https://d1vfnsg13zvlk4.cloudfront.net/o-mark-dark.svg");
-}
-
 .logo-text-light,
 .logo-text-dark {
   background-size: 71px 17px;
@@ -1390,13 +1382,6 @@ i {
   height: 17px;
 }
 
-.logo-text-light {
-  background-image: url("https://d1vfnsg13zvlk4.cloudfront.net/logo-text-light.svg");
-}
-
-.logo-text-dark {
-  background-image: url("https://d1vfnsg13zvlk4.cloudfront.net/icon-operator-dark.svg");
-}
 
 .hero-section {
   position: relative;
